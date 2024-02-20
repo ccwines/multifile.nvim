@@ -26,6 +26,4 @@ require('treesitter-setup')
 require('lsp-setup')
 
 -- Configure CMP (completion)
-
--- The line beneath this is called `modeline`. See `:help modeline`
--- vim: ts=2 sts=2 sw=2 et
+require('cmp-setup')
