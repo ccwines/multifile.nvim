@@ -4,9 +4,9 @@ Forked from kickstart.nvim:
 
 A starting point for Neovim that is:
 
-* Small
-* Documented
-* Modular
+- Small
+- Documented
+- Modular
 
 This repo is meant to be used by **YOU** to begin your Neovim journey; remove the things you don't use and add what you miss.
 
